@@ -183,13 +183,15 @@ a:hover {
 }
 
 .service-title-1 {
-    padding: 1rem 2rem 1rem 5rem;
+    padding: 1rem 1rem 1rem 5rem;
     font-size: 1.8rem;
+    text-align: right;
 }
 
 .service-title-2 {
     padding: 1rem 5rem 1rem 1rem;
     font-size: 1.8rem;
+    text-align: right;
 }
 
 .service-paragraph-1 {
@@ -214,11 +216,11 @@ a:hover {
 }
 
 .service-1 .fa {
-    padding: 3rem 2rem 1rem 5rem;
+    padding: 3rem 2rem 1rem 21rem;
 }
 
 .service-2 .fa {
-    padding: 3rem 5rem 1rem 1rem;
+    padding: 3rem 5rem 1rem 18rem;
 }
 
 .contact-left {
