@@ -319,3 +319,10 @@ strong {
     margin-left: 22%;
     width: 55%;
 }
+
+@media only screen and (max-width: 767px) {
+    .annoinmet {
+        margin-left: 5%;
+        width: 100%;
+    }
+}
