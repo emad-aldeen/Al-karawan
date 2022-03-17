@@ -314,3 +314,8 @@ strong {
 #contact-form button#valid-form:hover {
     background: #00e2c0;
 }
+
+.annoinmet {
+    margin-left: 22%;
+    width: 55%;
+}
